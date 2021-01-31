@@ -2,7 +2,8 @@
 // File: Chatbot.java
 // Authors: Carlos Gonzales, Joseph Sloan, Leonardo Villalobos
 // Last Modified : 1 / 31 / 2021
-// Description : 
+// Description : The class that contains the chatbot's methods
+// and the main algorithm for keyword finding.
 // ***************************************************************
 
 import java.util.Scanner;
