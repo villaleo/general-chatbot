@@ -1,4 +1,4 @@
-# general_chatbot
+# general-chatbot
 
 A basic I/O chatbot I created during my senior year in high school
 with two other individuals for AP Computer Science A (AP CSA). Utlizes
